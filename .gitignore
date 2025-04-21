@@ -1,0 +1,7 @@
+lib/
+include/
+pyvenv.cfg
+plots/
+lib64/
+share/
+etc/
